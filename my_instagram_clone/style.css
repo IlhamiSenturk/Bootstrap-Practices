@@ -40,4 +40,12 @@ a{
 .siyah{
     color: #000 !important;
 }
-  
+
+.takipet{
+    color: #0095f6;
+}
+
+a:hover{
+    text-decoration: none;
+    color: inherit;
+}
