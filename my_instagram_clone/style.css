@@ -1,0 +1,43 @@
+a{
+    color: black;
+}
+
+#navbarSupportedContent a i{
+    font-size: 19px;
+}
+
+#iconInput::placeholder {
+    color: transparent;
+  }
+  
+#iconInput + i {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: gray;
+}
+
+#navbarSupportedContent .nav-item{
+    padding-left: 150%;
+}
+#hikayeler .rounded-circle{
+    border: 2.5px solid rgb(238, 39, 82);
+}
+#hikayeler .col-sm{
+    padding: 7px 2px;
+}
+.cerceve{
+    background-color: #fff;
+    -webkit-box-shadow: 0px 1px 2px 0px rgba(135,135,135,1);
+    -moz-box-shadow: 0px 1px 2px 0px rgba(135,135,135,1);
+    box-shadow: 0px 1px 2px 0px rgba(135,135,135,1);
+}
+
+.eylemler i{
+    font-size: 1.3rem;
+}
+
+.siyah{
+    color: #000 !important;
+}
+  
